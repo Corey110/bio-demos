@@ -1,6 +1,6 @@
 version 1.0
 # 动态interval版
-import './gatk_germline_variant_calling_tasks.wdl' as tasks
+import './gatk_GermlineVariantCalling_tasks.wdl' as tasks
 workflow wgs {
 
     input {
