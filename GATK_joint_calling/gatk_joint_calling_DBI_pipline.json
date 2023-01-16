@@ -1,0 +1,23 @@
+{
+  "JointGenotyping.genome_indexes": 
+  ["/data1/ref/Bn_pan/panrefgenome.fa",
+  "/data1/ref/Bn_pan/panrefgenome.dict",
+  "/data1/ref/Bn_pan/panrefgenome.fa.ann",  
+  "/data1/ref/Bn_pan/panrefgenome.fa.fai",  
+  "/data1/ref/Bn_pan/panrefgenome.fa.sa",
+  "/data1/ref/Bn_pan/panrefgenome.fa.amb",  
+  "/data1/ref/Bn_pan/panrefgenome.fa.bwt", 
+  "/data1/ref/Bn_pan/panrefgenome.fa.pac"],
+  "JointGenotyping.single_sample_gvcfs": 
+  ["/data1/PopGenomic_data/jointcalling_test/R296.g.vcf.gz",      
+  "/data1/PopGenomic_data/jointcalling_test/R345.g.vcf.gz",      
+  "/data1/PopGenomic_data/jointcalling_test/R411.g.vcf.gz"],
+  "JointGenotyping.single_sample_gvcf_indices": 
+  ["/data1/PopGenomic_data/jointcalling_test/R296.g.vcf.gz.tbi",
+  "/data1/PopGenomic_data/jointcalling_test/R345.g.vcf.gz.tbi",  
+  "/data1/PopGenomic_data/jointcalling_test/R411.g.vcf.gz.tbi"],
+  "JointGenotyping.scatter_count": "3",
+  "JointGenotyping.output_vcf_basename": "bn3",
+  "JointGenotyping.interval_list": "/data1/ref/Bn_pan/interval_para_0_20/0000-scattered.interval_list"
+}
+
